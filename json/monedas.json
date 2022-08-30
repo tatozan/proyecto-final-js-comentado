@@ -1,0 +1,56 @@
+
+[
+    {
+        "symbol": "ADAUSDT",
+        "status": "FUTURES"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "status": "FUTURES"
+
+    },
+
+    {
+        "symbol": "ETHUSDT",
+        "status": "FUTURES"
+
+    },
+
+    {
+        "symbol": "MIRUSDT",
+        "status": "FUTURES"
+
+    },
+    {
+        "symbol": "MATICUSDT",
+        "status": "FUTURES"
+
+    },
+    {
+        "symbol": "SOLUSDT",
+        "status": "FUTURES"
+
+    },
+    {
+        "symbol": "IOTAUSDT",
+        "status": "FUTURES"
+
+    },
+    {
+        "symbol": "ETCUSDT",
+        "status": "FUTURES"
+
+    },
+    {
+        "symbol": "XRPUSDT",
+        "status": "FUTURES"
+
+    },
+    {
+        "symbol": "DOGEUSDT",
+        "status": "FUTURES"
+
+    }
+
+
+]
